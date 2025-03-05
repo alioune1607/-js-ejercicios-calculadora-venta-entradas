@@ -32,4 +32,4 @@ El sistema de venta de entradas calcula el precio de una entrada según la edad 
 
  Captura de Pantalla
 
-Captura de pantalla de venta de entradas:(captura-venta-entradas.png)
+Captura de pantalla de venta de entradas:(captura-entradas.png)
